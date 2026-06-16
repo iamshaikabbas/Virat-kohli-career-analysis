@@ -1,4 +1,4 @@
-# Virat-kohli-career-analysis-2017
+# Virat-kohli-career-analysis-2022
 Interactive Power BI dashboard analyzing Virat Kohli's international cricket career across Tests, ODIs, and T20Is with performance trends, opponent analysis, venue insights, and batting statistics.
 # 🏏 Virat Kohli Career Statistics Analysis | Power BI Dashboard
 
